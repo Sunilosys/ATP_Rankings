@@ -1,0 +1,127 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Get the current ATP Rankings",
+          "examplePhrases": [
+            "Alexa, open a. t. p. Rankings and get me the current ranking of Rafael Nadal",
+            "Alexa, open a. t. p. Rankings and get me the current number three player",
+            "Alexa, open a. t. p. Rankings and get me the top 10 players"
+          ],
+          "keywords": [
+            "ATP",
+            "Rankings",
+            "Tennis",
+            "Players",
+            "Tennis",
+            "Rankings"
+          ],
+          "name": "ATP Rankings",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5e9a/2025b1eaeade457b849728d5f6a461fe/APP_ICON?versionId=1Q_A13CnwxBvrk8Lrn3chftscuRB99Fl&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=erF%2FoNZHDFxe%2Fk76W6sPVlts2cs%3D",
+          "description": "This unofficial skill provides the current ATP rankings. You can say, what is the current ranking of a particular player, who is the current number one player, who are the current top 10 players.\n\nHOW TO USE:\n\nTo Get Started: Say \"Alexa Open a. t. p. Rankings\". \n\nSay \"What is the current ranking of {player name}\"\nFor example \"What is the current ranking of Rafael Nadal\"\n\n{player name} - Player Name (ex. Rafael Nadal, Roger Federer, Novak Djokovic etc)\n\nSay \"Who is the current number {ranking} player\"\nFor example \"Who is the current number one player\"\n\n{ranking} - No (1 - 500)\n\nSay \"Who are the current top {index} players in the world\"\nFor example \"Who are the current top 10 players in the world\"\n\n{index} - No (1 - 25)\n\nFor any of the above interactions, you can also use the one-shot phrasing.\n\nFor example \n\"Open a. t. p. Rankings and get me the current ranking of Rafael Nadal\"\n\"Open a. t. p. Rankings and get me the current number three player\"\n\"Open a. t. p. Rankings and get the top 5 players\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/4f6e/4f004d34cba943c79f9079253ddd8ea7/APP_ICON_LARGE?versionId=o75cRlpgw3Jale1f2r0o3JNArHaI.7I7&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=oaE%2BixCaa1vmikw%2BZnHpXXcc7gk%3D"
+        },
+        "en-CA": {
+          "summary": "Get the current ATP Rankings",
+          "examplePhrases": [
+            "Alexa, open a. t. p. Rankings and get me the current ranking of Rafael Nadal",
+            "Alexa, open a. t. p. Rankings and get me the current number three player",
+            "Alexa, open a. t. p. Rankings and get me the top 10 players"
+          ],
+          "keywords": [
+            "ATP",
+            "Rankings",
+            "Tennis",
+            "Players",
+            "Tennis",
+            "Rankings"
+          ],
+          "name": "ATP Rankings",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5e9a/2025b1eaeade457b849728d5f6a461fe/APP_ICON?versionId=1Q_A13CnwxBvrk8Lrn3chftscuRB99Fl&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=erF%2FoNZHDFxe%2Fk76W6sPVlts2cs%3D",
+          "description": "This unofficial skill provides the current ATP rankings. You can say, what is the current ranking of a particular player, who is the current number one player, who are the current top 10 players.\n\nHOW TO USE:\n\nTo Get Started: Say \"Alexa Open a. t. p. Rankings\". \n\nSay \"What is the current ranking of {player name}\"\nFor example \"What is the current ranking of Rafael Nadal\"\n\n{player name} - Player Name (ex. Rafael Nadal, Roger Federer, Novak Djokovic etc)\n\nSay \"Who is the current number {ranking} player\"\nFor example \"Who is the current number one player\"\n\n{ranking} - No (1 - 500)\n\nSay \"Who are the current top {index} players in the world\"\nFor example \"Who are the current top 10 players in the world\"\n\n{index} - No (1 - 25)\n\nFor any of the above interactions, you can also use the one-shot phrasing.\n\nFor example \n\"Open a. t. p. Rankings and get me the current ranking of Rafael Nadal\"\n\"Open a. t. p. Rankings and get me the current number three player\"\n\"Open a. t. p. Rankings and get the top 5 players\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/4f6e/4f004d34cba943c79f9079253ddd8ea7/APP_ICON_LARGE?versionId=o75cRlpgw3Jale1f2r0o3JNArHaI.7I7&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=oaE%2BixCaa1vmikw%2BZnHpXXcc7gk%3D"
+        },
+        "en-IN": {
+          "summary": "Get the current ATP Rankings",
+          "examplePhrases": [
+            "Alexa, open a. t. p. Rankings and get me the current ranking of Rafael Nadal",
+            "Alexa, open a. t. p. Rankings and get me the current number three player",
+            "Alexa, open a. t. p. Rankings and get me the top 10 players"
+          ],
+          "keywords": [
+            "ATP",
+            "Rankings",
+            "Tennis",
+            "Players",
+            "Tennis",
+            "Rankings"
+          ],
+          "name": "ATP Rankings",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5e9a/2025b1eaeade457b849728d5f6a461fe/APP_ICON?versionId=1Q_A13CnwxBvrk8Lrn3chftscuRB99Fl&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=erF%2FoNZHDFxe%2Fk76W6sPVlts2cs%3D",
+          "description": "This unofficial skill provides the current ATP rankings. You can say, what is the current ranking of a particular player, who is the current number one player, who are the current top 10 players.\n\nHOW TO USE:\n\nTo Get Started: Say \"Alexa Open a. t. p. Rankings\". \n\nSay \"What is the current ranking of {player name}\"\nFor example \"What is the current ranking of Rafael Nadal\"\n\n{player name} - Player Name (ex. Rafael Nadal, Roger Federer, Novak Djokovic etc)\n\nSay \"Who is the current number {ranking} player\"\nFor example \"Who is the current number one player\"\n\n{ranking} - No (1 - 500)\n\nSay \"Who are the current top {index} players in the world\"\nFor example \"Who are the current top 10 players in the world\"\n\n{index} - No (1 - 25)\n\nFor any of the above interactions, you can also use the one-shot phrasing.\n\nFor example \n\"Open a. t. p. Rankings and get me the current ranking of Rafael Nadal\"\n\"Open a. t. p. Rankings and get me the current number three player\"\n\"Open a. t. p. Rankings and get the top 5 players\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/4f6e/4f004d34cba943c79f9079253ddd8ea7/APP_ICON_LARGE?versionId=o75cRlpgw3Jale1f2r0o3JNArHaI.7I7&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=oaE%2BixCaa1vmikw%2BZnHpXXcc7gk%3D"
+        },
+        "en-AU": {
+          "summary": "Get the current ATP Rankings",
+          "examplePhrases": [
+            "Alexa, open a. t. p. Rankings and get me the current ranking of Rafael Nadal",
+            "Alexa, open a. t. p. Rankings and get me the current number three player",
+            "Alexa, open a. t. p. Rankings and get me the top 10 players"
+          ],
+          "keywords": [
+            "ATP",
+            "Rankings",
+            "Tennis",
+            "Players",
+            "Tennis",
+            "Rankings"
+          ],
+          "name": "ATP Rankings",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5e9a/2025b1eaeade457b849728d5f6a461fe/APP_ICON?versionId=1Q_A13CnwxBvrk8Lrn3chftscuRB99Fl&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=erF%2FoNZHDFxe%2Fk76W6sPVlts2cs%3D",
+          "description": "This unofficial skill provides the current ATP rankings. You can say, what is the current ranking of a particular player, who is the current number one player, who are the current top 10 players.\n\nHOW TO USE:\n\nTo Get Started: Say \"Alexa Open a. t. p. Rankings\". \n\nSay \"What is the current ranking of {player name}\"\nFor example \"What is the current ranking of Rafael Nadal\"\n\n{player name} - Player Name (ex. Rafael Nadal, Roger Federer, Novak Djokovic etc)\n\nSay \"Who is the current number {ranking} player\"\nFor example \"Who is the current number one player\"\n\n{ranking} - No (1 - 500)\n\nSay \"Who are the current top {index} players in the world\"\nFor example \"Who are the current top 10 players in the world\"\n\n{index} - No (1 - 25)\n\nFor any of the above interactions, you can also use the one-shot phrasing.\n\nFor example \n\"Open a. t. p. Rankings and get me the current ranking of Rafael Nadal\"\n\"Open a. t. p. Rankings and get me the current number three player\"\n\"Open a. t. p. Rankings and get the top 5 players\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/4f6e/4f004d34cba943c79f9079253ddd8ea7/APP_ICON_LARGE?versionId=o75cRlpgw3Jale1f2r0o3JNArHaI.7I7&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=oaE%2BixCaa1vmikw%2BZnHpXXcc7gk%3D"
+        },
+        "en-GB": {
+          "summary": "Get the current ATP Rankings",
+          "examplePhrases": [
+            "Alexa, open a. t. p. Rankings and get me the current ranking of Rafael Nadal",
+            "Alexa, open a. t. p. Rankings and get me the current number three player",
+            "Alexa, open a. t. p. Rankings and get me the top 10 players"
+          ],
+          "keywords": [
+            "ATP",
+            "Rankings",
+            "Tennis",
+            "Players",
+            "Tennis",
+            "Rankings"
+          ],
+          "name": "ATP Rankings",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5e9a/2025b1eaeade457b849728d5f6a461fe/APP_ICON?versionId=1Q_A13CnwxBvrk8Lrn3chftscuRB99Fl&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=erF%2FoNZHDFxe%2Fk76W6sPVlts2cs%3D",
+          "description": "This unofficial skill provides the current ATP rankings. You can say, what is the current ranking of a particular player, who is the current number one player, who are the current top 10 players.\n\nHOW TO USE:\n\nTo Get Started: Say \"Alexa Open a. t. p. Rankings\". \n\nSay \"What is the current ranking of {player name}\"\nFor example \"What is the current ranking of Rafael Nadal\"\n\n{player name} - Player Name (ex. Rafael Nadal, Roger Federer, Novak Djokovic etc)\n\nSay \"Who is the current number {ranking} player\"\nFor example \"Who is the current number one player\"\n\n{ranking} - No (1 - 500)\n\nSay \"Who are the current top {index} players in the world\"\nFor example \"Who are the current top 10 players in the world\"\n\n{index} - No (1 - 25)\n\nFor any of the above interactions, you can also use the one-shot phrasing.\n\nFor example \n\"Open a. t. p. Rankings and get me the current ranking of Rafael Nadal\"\n\"Open a. t. p. Rankings and get me the current number three player\"\n\"Open a. t. p. Rankings and get the top 5 players\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/4f6e/4f004d34cba943c79f9079253ddd8ea7/APP_ICON_LARGE?versionId=o75cRlpgw3Jale1f2r0o3JNArHaI.7I7&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532073875&Signature=oaE%2BixCaa1vmikw%2BZnHpXXcc7gk%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No Special Instructions",
+      "category": "SPORTS_NEWS",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "./lambda/us-east-1_ATPRanking"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

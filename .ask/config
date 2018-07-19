@@ -1,0 +1,52 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.c49fbd10-55ea-451a-87c0-263b0a7e0962",
+      "was_cloned": true,
+      "resources": {
+        "manifest": {
+          "eTag": "8d1dce4fa6826a79f13dd1ff9410982e"
+        },
+        "interactionModel": {
+          "en-US": {
+            "eTag": "d090c0997008012336f72c7bd1ccd624"
+          },
+          "en-CA": {
+            "eTag": "d090c0997008012336f72c7bd1ccd624"
+          },
+          "en-IN": {
+            "eTag": "d090c0997008012336f72c7bd1ccd624"
+          },
+          "en-AU": {
+            "eTag": "d090c0997008012336f72c7bd1ccd624"
+          },
+          "en-GB": {
+            "eTag": "d090c0997008012336f72c7bd1ccd624"
+          }
+        },
+        "lambda": [
+          {
+            "arn": "arn:aws:lambda:us-east-1:471325060569:function:ATPRanking",
+            "awsRegion": "us-east-1",
+            "functionName": "ATPRanking",
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "revisionId": "e0a29c14-10ef-46e8-8e10-d80f52bfebcb"
+          }
+        ]
+      },
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "arn:aws:lambda:us-east-1:471325060569:function:ATPRanking"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
